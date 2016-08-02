@@ -1,0 +1,16 @@
+{
+  "eqeqeq": true,
+  "latedef": true,
+  "curly": true,
+  "immed": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "boss": true,
+  "eqnull": true,
+  "W030":false,
+  "globals": {
+        "jQuery": true,
+        "angular": true,
+      },
+}

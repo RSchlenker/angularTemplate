@@ -1,0 +1,6 @@
+{
+	"preset": "google",
+	"requireSpaceBeforeBlockStatements": null,
+	"requireSpaceBeforeObjectValues": null,
+	"maximumLineLength": 100,
+}
